@@ -53,6 +53,12 @@ python search_agent.py
 
 You can adjust the `OLLAMA_URL` and `SEARXNG_URL` in `backend/main.py` and `search_agent.py` if your services are running on different ports.
 
+## Demo
+
+<img width="1919" height="713" alt="image" src="https://github.com/user-attachments/assets/40f66473-2369-4284-a03f-5ebf3cee3c24" />
+
+<img width="1919" height="675" alt="image" src="https://github.com/user-attachments/assets/854f4dd8-be3f-4298-80ab-643517fca354" />
+
 
 ## Author 
 
