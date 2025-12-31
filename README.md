@@ -61,6 +61,9 @@ You can adjust the `OLLAMA_URL` and `SEARXNG_URL` in `backend/main.py` and `sear
 
 <img width="1914" height="551" alt="image" src="https://github.com/user-attachments/assets/64d85918-4df2-4aa4-bd0b-37ae3bbfa306" />
 
+<img width="1919" height="784" alt="image" src="https://github.com/user-attachments/assets/77d6f661-2b10-4f2c-a552-e0a14943e5fc" />
+
+
 
 ## Author 
 
