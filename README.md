@@ -1,6 +1,6 @@
 # Ollama Search Agent
 
-A powerful, private, and local search agent that combines **Ollama (Llama 3.2)** with **SearXNG** to provide AI-summarized search results. It features a modern **React** frontend with a premium "glowing beam" UI.
+A powerful, private, and local search agent that combines **Ollama (Llama 3.2)** with **SearXNG** to provide AI-summarized search results. It features a modern **React** frontend with a premium glowing beam UI.
 
 ## Features
 
