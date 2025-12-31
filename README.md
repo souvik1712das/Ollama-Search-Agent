@@ -58,7 +58,9 @@ You can adjust the `OLLAMA_URL` and `SEARXNG_URL` in `backend/main.py` and `sear
 
 Souvik Das
 
-## Last updated: 31 December 2025 
+## Last updated: 
+
+31 December 2025 
 
 ## LinkedIn: 
 
